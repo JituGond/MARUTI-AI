@@ -1,0 +1,8 @@
+{
+  "name": "MAHAVIR",
+  "description": "Android-ready AI gaming video editor for gameplay analysis, automatic cuts, slow motion, Hindi & English commentary scripts, AI voice-overs, and offline export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
